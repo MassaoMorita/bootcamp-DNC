@@ -294,6 +294,18 @@ footer .linha2 a:hover{
         font-size: 17px;
     }
 
+    /*FOOTER*/
+
+    footer .linha1{
+       flex-direction: column; 
+    }
+
+    footer .endereço{
+        width: 95%;
+        margin-bottom: 20px;
+        padding: 0px 5px 0px 5px;
+    }
+
 }
 
 
